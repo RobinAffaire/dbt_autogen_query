@@ -35,6 +35,16 @@ models:
       flat_file:
         +database: flat_file
         +schema: staging
+      
+    intermediate:
+      tech:
+        +database: tech
+        +schema: intermediate
+
+    mart:
+      tech:
+        +database: tech
+        +schema: mart
 
 seeds:
   +database: flat_file
