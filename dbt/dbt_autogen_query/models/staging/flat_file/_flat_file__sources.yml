@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+    - name: flat_file
+      description: SF Db FLAT_FILE
+      database: flat_file
+      schema: raw
+      tables:
+          - name: rsdssegfd
+            description: One record per datasource, logsys, segid, posit

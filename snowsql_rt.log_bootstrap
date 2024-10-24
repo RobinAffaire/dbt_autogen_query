@@ -1,0 +1,37 @@
+2024-10-23 14:08:04,498 (24812/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:733  - Initialized logging. Log file '../snowsql_rt.log_bootstrap', Namespaces: ['snowflake.cli', 'snowflake.connector', 'botocore', 'azure', '__main__', 'eventloop', 'sqlexecute']
+2024-10-23 14:08:04,499 (24812/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI254122\base_library.zip\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI254122\base_library.zip\certifi\cacert.pem
+2024-10-23 14:08:04,499 (24812/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI254122\lib-dynload\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI254122\lib-dynload\certifi\cacert.pem
+2024-10-23 14:08:04,500 (24812/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI254122\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI254122\certifi\cacert.pem
+2024-10-23 14:08:04,501 (24812/MainThread) snowflake.cli.common.util_cli INFO       util_cli:760  - cacert.pem is set to REQUESTS_CA_BUNDLE: C:\Users\raffaire\AppData\Local\Temp\_MEI254122\certifi\cacert.pem
+2024-10-23 14:08:04,501 (24812/MainThread) __main__ DEBUG      bootstrap:347  - proxy_host:None, proxy_port: None, proxy_user: None, proxy_password:****
+2024-10-23 14:08:04,501 (24812/MainThread) __main__ INFO      bootstrap:352  - no autoupgrade option: True
+2024-10-23 14:08:04,501 (24812/MainThread) __main__ INFO      bootstrap:354  - version: None, ret_options: None
+2024-10-23 14:08:04,502 (24812/MainThread) __main__ INFO      bootstrap:385  - no auto upgrade without version
+2024-10-23 14:08:04,506 (24812/MainThread) __main__ DEBUG      bootstrap:829  - Running C:\Users\raffaire\.snowsql\1.2.32\snowsql.exe
+2024-10-23 14:09:29,958 (13140/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:733  - Initialized logging. Log file '../snowsql_rt.log_bootstrap', Namespaces: ['snowflake.cli', 'snowflake.connector', 'botocore', 'azure', '__main__', 'eventloop', 'sqlexecute']
+2024-10-23 14:09:29,959 (13140/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI117482\base_library.zip\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI117482\base_library.zip\certifi\cacert.pem
+2024-10-23 14:09:29,959 (13140/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI117482\lib-dynload\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI117482\lib-dynload\certifi\cacert.pem
+2024-10-23 14:09:29,960 (13140/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI117482\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI117482\certifi\cacert.pem
+2024-10-23 14:09:29,960 (13140/MainThread) snowflake.cli.common.util_cli INFO       util_cli:760  - cacert.pem is set to REQUESTS_CA_BUNDLE: C:\Users\raffaire\AppData\Local\Temp\_MEI117482\certifi\cacert.pem
+2024-10-23 14:09:29,960 (13140/MainThread) __main__ DEBUG      bootstrap:347  - proxy_host:None, proxy_port: None, proxy_user: None, proxy_password:****
+2024-10-23 14:09:29,960 (13140/MainThread) __main__ INFO      bootstrap:352  - no autoupgrade option: True
+2024-10-23 14:09:29,961 (13140/MainThread) __main__ INFO      bootstrap:354  - version: None, ret_options: None
+2024-10-23 14:09:29,961 (13140/MainThread) __main__ INFO      bootstrap:385  - no auto upgrade without version
+2024-10-23 14:09:29,962 (13140/MainThread) __main__ DEBUG      bootstrap:829  - Running C:\Users\raffaire\.snowsql\1.2.32\snowsql.exe
+2024-10-23 14:10:31,304 (16292/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:733  - Initialized logging. Log file '../snowsql_rt.log_bootstrap', Namespaces: ['snowflake.cli', 'snowflake.connector', 'botocore', 'azure', '__main__', 'eventloop', 'sqlexecute']
+2024-10-23 14:10:31,305 (16292/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI244722\base_library.zip\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI244722\base_library.zip\certifi\cacert.pem
+2024-10-23 14:10:31,305 (16292/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI244722\lib-dynload\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI244722\lib-dynload\certifi\cacert.pem
+2024-10-23 14:10:31,306 (16292/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:752  - cacert?: C:\Users\raffaire\AppData\Local\Temp\_MEI244722\cacert.pem, C:\Users\raffaire\AppData\Local\Temp\_MEI244722\certifi\cacert.pem
+2024-10-23 14:10:31,306 (16292/MainThread) snowflake.cli.common.util_cli INFO       util_cli:760  - cacert.pem is set to REQUESTS_CA_BUNDLE: C:\Users\raffaire\AppData\Local\Temp\_MEI244722\certifi\cacert.pem
+2024-10-23 14:10:31,306 (16292/MainThread) __main__ DEBUG      bootstrap:347  - proxy_host:None, proxy_port: None, proxy_user: None, proxy_password:****
+2024-10-23 14:10:31,307 (16292/MainThread) __main__ INFO      bootstrap:352  - no autoupgrade option: True
+2024-10-23 14:10:31,307 (16292/MainThread) __main__ INFO      bootstrap:354  - version: None, ret_options: None
+2024-10-23 14:10:31,307 (16292/MainThread) __main__ INFO      bootstrap:385  - no auto upgrade without version
+2024-10-23 14:10:31,308 (16292/MainThread) __main__ DEBUG      bootstrap:829  - Running C:\Users\raffaire\.snowsql\1.2.32\snowsql.exe
+2024-10-23 14:13:20,216 (15904/MainThread) snowflake.cli.common.util_cli DEBUG       util_cli:733  - Initialized logging. Log file '../snowsql_rt.log_bootstrap', Namespaces: ['snowflake.cli', 'snowflake.connector', 'botocore', 'azure', '__main__', 'eventloop', 'sqlexecute']
+2024-10-23 14:13:20,216 (15904/MainThread) snowflake.cli.common.util_cli INFO       util_cli:768  - REQUESTS_CA_BUNDLE is already set to C:\users\raffaire\.snowsql\zscaler_cert.pem
+2024-10-23 14:13:20,217 (15904/MainThread) __main__ DEBUG      bootstrap:347  - proxy_host:None, proxy_port: None, proxy_user: None, proxy_password:****
+2024-10-23 14:13:20,217 (15904/MainThread) __main__ INFO      bootstrap:352  - no autoupgrade option: True
+2024-10-23 14:13:20,217 (15904/MainThread) __main__ INFO      bootstrap:354  - version: None, ret_options: None
+2024-10-23 14:13:20,217 (15904/MainThread) __main__ INFO      bootstrap:385  - no auto upgrade without version
+2024-10-23 14:13:20,218 (15904/MainThread) __main__ DEBUG      bootstrap:829  - Running C:\Users\raffaire\.snowsql\1.2.32\snowsql.exe

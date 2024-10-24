@@ -1,0 +1,41 @@
+version: 2
+
+seeds:
+  - name: pw1_rsdssegfd_seed
+    description: PW1 table RSDSSEGFD
+    config:
+      delimiter: ';'
+      quote_columns: true
+    columns:
+      - name: empty1
+        description: Empty column automatically exported by sap
+
+      - name: datasource
+        description: Datasource name
+
+      - name: logsys
+        description: System id
+
+      - name: objvers
+        description: Object version (SAP technical axis - should be equal to 'A')
+
+      - name: segid
+        description: Segment ID
+
+      - name: posit
+        description: Position
+
+      - name: fieldnm
+        description: Field name
+      
+      - name: datatype
+        description: SAP data type
+
+      - name: leng
+        description: Field length
+
+      - name: decimals
+        description: Number of decimals
+
+      - name: txtlg
+        description: SAP long description
